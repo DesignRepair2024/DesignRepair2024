@@ -6,6 +6,8 @@
 
 DesignRepair is a **dual-stream, knowledge-driven** approach leveraging **Large Language Models (LLMs)** to detect and repair design quality issues in frontend code. It incorporates both **source code analysis** and **user-perceived rendered view analysis**, guided by **Material Design 3** guidelines.
 
+> 🟨 **NEWS [2026-07-31]:** You can now try the skill-based implementation of DesignRepair: [Mingyue-eva/DesignRepair_skills](https://github.com/Mingyue-eva/DesignRepair_skills).
+
 ### Key Features:
 
 - **Dual-Stream Analysis**: Simultaneously analysis the source code and its properties of rendered output to identify design issues.
